@@ -7,7 +7,7 @@ Created on Tue Dec 28 03:10:46 2021
 """
 
 #Web Content Aggregator
-#step1: initalize web server
+#step1: initialize web server
 #step2: create function home()
 #step3: request HTML content from websites
 #step4: iterate through website HTML code
