@@ -1,5 +1,5 @@
 # News Aggregator Web App
-# Requirements
+Make sure to install Flask and the Beautiful Soup Python library
 
 https://ilyasabdulrahman0-gi21a2pl1blm1gpc.socketxp.com (link to the web application)
 
