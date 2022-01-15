@@ -1,5 +1,5 @@
 # News Aggregator Web App
-Make sure to install the Beautiful Soup python library and Flask.
+Make sure to install the Beautiful Soup Python library and Flask.
 
 Once the program is run, an HTTP web address will be provided in your console. Copy and paste that web address in your web browser.
 
